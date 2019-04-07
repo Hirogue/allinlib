@@ -1,0 +1,23 @@
+{
+  "name": "allinlib",
+  "version": "0.0.1",
+  "description": "This is a common lib for nodejs projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlanteem/allinlib.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Chris Wei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atlanteem/allinlib/issues"
+  },
+  "homepage": "https://github.com/atlanteem/allinlib#readme"
+}
