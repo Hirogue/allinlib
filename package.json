@@ -1,6 +1,6 @@
 {
   "name": "allinlib",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a common lib for nodejs projects.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/atlanteem/allinlib/issues"
   },
-  "homepage": "https://github.com/atlanteem/allinlib#readme"
+  "homepage": "https://github.com/atlanteem/allinlib#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
